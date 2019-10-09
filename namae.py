@@ -1,3 +1,3 @@
 print('Enter your name.')
-w=input()
-print('Greetings,',w)
+Enter_name=input()
+print('Greetings,',Enter_name) 
