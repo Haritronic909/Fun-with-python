@@ -1,9 +1,9 @@
-number = int(input("enter number\n"))
+number = int(input("Enter your number ...\n"))
 if ( number >= 0 ):
    if ( number % 2 == 0 ):
-       print ("even")
+       print ("The number is even")
    else:
-       print ("odd")
+       print ("The number is odd")
 else:
-   print ("negative")
+   print ("You have given a negative input")
 print ("all done")
